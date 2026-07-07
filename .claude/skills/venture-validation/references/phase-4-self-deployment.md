@@ -2,8 +2,8 @@
 
 Goal: a dated 30/60/90-day execution roadmap whose only objective is first
 revenue, with a build-in-public engine attached. Dates are real calendar
-dates anchored to a kickoff date (ask none — default kickoff is the Monday
-following report delivery; state that assumption).
+dates. Do not ask the user for a kickoff date — default to the Monday
+following report delivery and state that assumption in the roadmap.
 
 ## MVP scope — ruthless cut to first revenue
 
